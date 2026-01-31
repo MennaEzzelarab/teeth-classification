@@ -1,0 +1,17 @@
+# Data and large files
+Teeth DataSet/
+*.zip
+*.rar
+
+# Python/IDE
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+venv/
+env/
+
+# Model Weights
+*.h5
+*.pth
